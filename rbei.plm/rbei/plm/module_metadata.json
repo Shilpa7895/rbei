@@ -47,7 +47,7 @@
       "cdb_object_id": "95b86746-23a8-11e9-93af-5891cf1bbe2a", 
       "is_interface_module": 0, 
       "mandatory": 0, 
-      "master_config_checksum": "d41d8cd98f00b204e9800998ecf8427e", 
+      "master_config_checksum": "7db1e7648b7da73d2afe1d577093de8b", 
       "name": "Customer module", 
       "package": "rbei.plm"
     }, 
