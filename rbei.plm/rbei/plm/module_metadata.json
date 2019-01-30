@@ -1,0 +1,61 @@
+{
+  "build_info": {
+    "export_version": 7, 
+    "package_versions": {
+      "cs.actions": "15.4.0.2", 
+      "cs.activitystream": "15.3.1.5", 
+      "cs.base": "15.4.2.7", 
+      "cs.bomcreator": "15.2.1.8", 
+      "cs.classification": "15.2.0.12", 
+      "cs.costing": "15.3.0.23", 
+      "cs.cp": "15.3.0.2", 
+      "cs.defects": "15.2.1.2", 
+      "cs.designsystem": "15.2.0.1", 
+      "cs.documents": "15.2.3.9", 
+      "cs.dsig": "15.2.3.1", 
+      "cs.dsig-pdf": "15.2.2.6", 
+      "cs.ec": "15.4.0.10", 
+      "cs.innovation": "15.2.2.0", 
+      "cs.launchpad": "15.2.1.0", 
+      "cs.metrics": "15.4.0.2", 
+      "cs.mfa": "15.3.0.2", 
+      "cs.noteslink": "15.4.0.7", 
+      "cs.officelink": "15.5.0.10", 
+      "cs.pcs": "15.4.2.7", 
+      "cs.pdx": "15.3.0.1", 
+      "cs.platform": "15.3.13", 
+      "cs.portfolios": "15.4.0.0", 
+      "cs.powerreports": "15.3.0.2", 
+      "cs.projectcosts": "15.1.0.16", 
+      "cs.requirements": "15.4.1.3", 
+      "cs.resources": "15.3.1.10", 
+      "cs.scm": "15.3.0.0", 
+      "cs.taskboard": "15.1.0.6", 
+      "cs.taskmanager": "15.4.1.2", 
+      "cs.threed": "15.5.1.9", 
+      "cs.vp": "15.5.0.12", 
+      "cs.vp-pcs": "15.3.0.4", 
+      "cs.web": "15.3.0.7", 
+      "cs.workflow": "15.4.1.4", 
+      "cs.workspaces": "15.2.1.9", 
+      "cscdb.product": "11.3.0.9"
+    }
+  }, 
+  "dependencies": [], 
+  "module": {
+    "DATA": {
+      "cdb_object_id": "95b86746-23a8-11e9-93af-5891cf1bbe2a", 
+      "is_interface_module": 0, 
+      "mandatory": 0, 
+      "master_config_checksum": "d41d8cd98f00b204e9800998ecf8427e", 
+      "name": "Customer module", 
+      "package": "rbei.plm"
+    }, 
+    "LONGTEXTS": {
+      "cdb_module_txt": ""
+    }, 
+    "PRIMARY_KEYS": {
+      "module_id": "rbei.plm"
+    }
+  }
+}
