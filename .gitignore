@@ -1,0 +1,38 @@
+# ECLIPSE
+/.settings
+/.project
+/.pydevproject
+# IntelliJ
+*.iml
+# DIRS
+/.idea/
+/app_conf/
+/cdbunigraphics/
+/certs/
+/etc/
+/etcd/
+/htdocs/
+/init_scripts/
+/lib/
+/migration_sources/
+/pkgs/
+/replication/
+/Reports/
+/sapgw2/
+/storage/
+/scripts.cmd/
+/tmp/
+/site-packages/
+# FILES
+*.orig
+*.pyc
+*.pyo
+*.bak
+#*.db* nix * am ende
+# unit and nose tests
+/tests/\.*
+/.vscode/
+/apps/
+/ca/
+/modsec/
+
