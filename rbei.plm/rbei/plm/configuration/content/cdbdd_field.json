@@ -1,0 +1,9 @@
+{
+  "cdbdd_field": {
+    "CONTENT": [
+      {"PRIMARY_KEYS": {"classname": "model", "field_name": "test"}, "DATA": {"activity_enable_sys_posting": null, "activity_posting_label": "", "cdb_classname": "cdbdd_char_field", "cdb_iso_language_code": "", "cdb_module_id": "rbei.plm", "cdb_object_id": "2233e79e-2486-11e9-a58b-5891cf1bbe2a", "data_length": 10, "db_default": "", "db_not_null": 0, "description": "", "errmsg_regular_expression": "", "float_post_decimal": null, "gui_autodefined": 1, "is_mandatory": 0, "is_system": 0, "join_alias": null, "joined_classname": null, "joined_field_name": null, "label_cs": null, "label_de": "", "label_en": "test", "label_es": null, "label_fr": null, "label_it": null, "label_ja": null, "label_ko": null, "label_pl": null, "label_pt": null, "label_tr": "", "label_zh": "", "ma_cache_refresh": null, "ma_cache_strategy": null, "ma_source_data_att": null, "ma_source_map_key": null, "ma_source_relation": null, "ma_target_map_key": null, "multilang_field_name": "", "not_replicated": 0, "position": 1140, "pq_type": null, "predefined_field_clsname": null, "predefined_field_name": null, "ranking_fac": "descriptive", "regular_expression": ""}}
+    ],
+    "CONTENT_DOMAIN": "",
+    "UPDATE_POLICY": "ALWAYS UPDATED"
+  }
+}

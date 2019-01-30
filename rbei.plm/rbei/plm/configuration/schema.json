@@ -1,0 +1,13 @@
+{
+  "zeichnung": {
+    "COLUMNS": [
+      {
+        "DEFAULT": "", 
+        "LENGTH": 10, 
+        "NAME": "test", 
+        "NOTNULL": false, 
+        "TYPE": 0
+      }
+    ]
+  }
+}
